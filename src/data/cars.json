@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "model": "Honda Civic",
+    "year": 2020,
+    "mileage": 35000,
+    "price": 18900,
+    "image": "https://picsum.photos/800/600?random=1",
+    "description": "Well-maintained Honda Civic with excellent fuel economy. Perfect for daily commuting.",
+    "engine": "1.5L Turbo 4-Cylinder",
+    "condition": "Excellent"
+  },
+  {
+    "id": 2,
+    "model": "Toyota Camry",
+    "year": 2019,
+    "mileage": 42000,
+    "price": 21900,
+    "image": "https://picsum.photos/800/600?random=2",
+    "description": "Reliable Toyota Camry with spacious interior and smooth ride. Great family car.",
+    "engine": "2.5L 4-Cylinder",
+    "condition": "Very Good"
+  },
+  {
+    "id": 3,
+    "model": "Ford F-150",
+    "year": 2021,
+    "mileage": 28000,
+    "price": 38900,
+    "image": "https://picsum.photos/800/600?random=3",
+    "description": "Powerful Ford F-150 truck with towing capacity. Perfect for work or adventure.",
+    "engine": "3.5L V6 EcoBoost",
+    "condition": "Excellent"
+  },
+  {
+    "id": 4,
+    "model": "Chevrolet Equinox",
+    "year": 2020,
+    "mileage": 38000,
+    "price": 22900,
+    "image": "https://picsum.photos/800/600?random=4",
+    "description": "Comfortable SUV with modern features and great safety ratings.",
+    "engine": "1.5L Turbo 4-Cylinder",
+    "condition": "Very Good"
+  },
+  {
+    "id": 5,
+    "model": "Nissan Altima",
+    "year": 2018,
+    "mileage": 55000,
+    "price": 16900,
+    "image": "https://picsum.photos/800/600?random=5",
+    "description": "Affordable sedan with reliable performance and good fuel efficiency.",
+    "engine": "2.5L 4-Cylinder",
+    "condition": "Good"
+  },
+  {
+    "id": 6,
+    "model": "Jeep Wrangler",
+    "year": 2019,
+    "mileage": 32000,
+    "price": 32900,
+    "image": "https://picsum.photos/800/600?random=6",
+    "description": "Iconic off-road vehicle ready for any adventure. Great condition.",
+    "engine": "3.6L V6",
+    "condition": "Excellent"
+  }
+]
+
